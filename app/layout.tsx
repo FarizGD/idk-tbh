@@ -8,8 +8,7 @@ import "./globals.css"
 
 export const metadata: Metadata = {
   title: "Sistem Informasi Jurusan - SMK TKJ",
-  description: "Sistem Informasi Jurusan untuk SMK Teknik Komputer dan Jaringan",
-  generator: "v0.app",
+  description: "Sistem Informasi Jurusan untuk SMK Teknik Komputer dan Jaringan"
 }
 
 export default function RootLayout({
